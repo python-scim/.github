@@ -1,3 +1,9 @@
+<p align="center">
+  <img alt="Python logo" src="https://raw.githubusercontent.com/python-scim/.github/refs/heads/main/python.svg" height="200">
+  <img alt="SCIM logo" src="https://raw.githubusercontent.com/python-scim/.github/refs/heads/main/scim.png" height="200">
+  <h1>python-scim</h1>
+</p>
+
 Python tools to build SCIM2 compatible applications.
 
 - If you need to build a SCIM server, have a look at [scim2-models](https://github.com/python-scim/scim2-models).
