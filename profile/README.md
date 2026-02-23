@@ -1,6 +1,5 @@
 <p align="center">
-  <img alt="Python logo" src="https://raw.githubusercontent.com/python-scim/.github/refs/heads/main/python.svg" height="200">
-  <img alt="SCIM logo" src="https://raw.githubusercontent.com/python-scim/.github/refs/heads/main/scim.png" height="200">
+  <img alt="python-scim logo" src="https://raw.githubusercontent.com/python-scim/.github/refs/heads/main/python-scim.svg" height="200">
   <h1>python-scim</h1>
 </p>
 
