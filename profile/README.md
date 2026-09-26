@@ -14,4 +14,4 @@ Python tools to build SCIM2 compatible applications.
 
 The projects are mostly maintained by [Yaal Coop](https://yaal.coop).
 There is no precise roadmap or deadline, if you need something in the libraries, please reach us through the bug trackers.
-**We are available for hire** to help you build or integrate SCIM in your applications.
+**We are available for hire** to help you build or integrate SCIM in your applications, or your services ecosystem.
